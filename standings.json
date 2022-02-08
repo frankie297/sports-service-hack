@@ -1,0 +1,110 @@
+{
+    "id": 129938,
+    "name": "ATP Singles Rankings",
+    "type": "Simple points based ranking list",
+    "sport": {
+      "id": 2,
+      "name": "Tennis"
+    },
+    "updated": "2015-12-13T18:37:57Z",
+    "entries": [
+      {
+        "id": 1291720,
+        "rank": 1,
+        "participant": {
+          "id": 48783,
+          "name": "Andy Murray",
+          "firstName": "Andy",
+          "lastName": "Murray",
+          "gender": "male",
+          "type": "athlete",
+          "country": {
+            "id": 15,
+            "name": "Scotland"
+          }
+        },
+        "standings": {
+          "points": {
+            "code": "result:points",
+            "name": "Points",
+            "value": "10370"
+          }
+        }
+      },
+      {
+        "id": 1291718,
+        "rank": 2,
+        "participant": {
+          "id": 48621,
+          "name": "Novak Djokovic",
+          "firstName": "Novak",
+          "lastName": "Djokovic",
+          "gender": "male",
+          "type": "athlete",
+          "country": {
+            "id": 20,
+            "name": "Serbia"
+          }
+        },
+        "standings": {
+          "points": {
+            "code": "result:points",
+            "name": "Points",
+            "value": "7445"
+          }
+        }
+      },
+      {
+        "id": 1291735,
+        "rank": 3,
+        "participant": {
+          "id": 48478,
+          "name": "Stan Wawrinka",
+          "firstName": "Stan",
+          "lastName": "Wawrinka",
+          "gender": "male",
+          "type": "athlete",
+          "country": {
+            "id": 37,
+            "name": "Switzerland"
+          }
+        },
+        "standings": {
+          "points": {
+            "code": "result:points",
+            "name": "Points",
+            "value": "5445"
+          }
+        }
+      },
+      {
+        "id": 1291719,
+        "rank": 4,
+        "participant": {
+          "id": 48262,
+          "name": "Rafael Nadal",
+          "firstName": "Rafael",
+          "lastName": "Nadal",
+          "gender": "male",
+          "type": "athlete",
+          "country": {
+            "id": 8,
+            "name": "Spain"
+          }
+        },
+        "standings": {
+          "points": {
+            "code": "result:points",
+            "name": "Points",
+            "value": "5375"
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "http://sport.api.press.net/v1/standing/129938"
+      }
+    ]
+  }

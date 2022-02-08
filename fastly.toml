@@ -1,0 +1,9 @@
+# This file describes a Fastly Compute@Edge package. To learn more visit:
+# https://developer.fastly.com/reference/fastly-toml/
+
+authors = ["francescahammond297@hotmail.com"]
+description = "Trying out sports API with Rust"
+language = "rust"
+manifest_version = 2
+name = "fastly-hackday-rust"
+service_id = ""
